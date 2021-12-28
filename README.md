@@ -12,7 +12,7 @@ Vehicle Service Management System - 'Multiple' File upload Leads to Html Injecti
 ###  CVE : 
 ###  Google Dork: N/A
 ###  Reference: 
-
+- https://www.plsanu.com/vehicle-service-management-system-multiple-file-upload-leads-to-html-injection
 - https://github.com/plsanu/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection
 
 ### 1. Vehicle Service Management System - 'MyAccount' (/admin/?page=user)
